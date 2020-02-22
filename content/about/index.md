@@ -2,17 +2,15 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - Express
-  - NativeScript
+  - Network Security 
+  - Cryptography and Embedded System
+  - reverse engineering and obfuscation 
+  - Formal verification
+  - Blockchain Application development( ETH , hyperledger ) on private and permissioned systems
+  - Secure application development and auditing  
+  - AGILE development and systems design for enterprise  cloud application  development 
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
-
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Hello! I'm Dhruv, I am final year Masters student from [Ecole polytechnique](https://www.polytechnique.edu/en) , being passionate in designing  of secure systems as well as  implementing blockchain applications in blockchain application development ( both public and private blockchains) for NGO's as weel as financial applications for real  utility in the field of supply chain , defi , CSR etc. i am also working with  blockchain ecosystems like  [Tezos]  , [pegasys/hyperledger] ,[ Polkadot] etc for cybersecurity  auditing  the software as well as managing the bugs. 
 
 Here are a few technologies I've been working with recently:
